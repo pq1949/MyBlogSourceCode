@@ -78,8 +78,8 @@ theme: indigo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/pq1949/pq1949.github.io.git
-  branch:  master
+  repo: git@github.com:pq1949/pq1949.github.io.git
+  branch: master
 
 feed:
   type: atom
